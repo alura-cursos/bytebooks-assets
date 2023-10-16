@@ -1,0 +1,28 @@
+[
+	{
+		"id": 1,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/pwa.png",
+		"name": "Progressive Web Apps",
+		"author": "Guilherme Pontes",
+		"shortDescription": "Construa aplicações progressivas com React",
+		"fullDescription": "PWA é um acrônimo para Progressive Web Apps, ou Aplicações Web Progressivas. Com o passar dos dias, mais e mais sistemas mobile e navegadores suportam os requisitos PWA, com uma expectativa real de que a Progressive Enhancement, ou melhoria progressiva, deixe de apenas pertencer às boas práticas de desenvolvimento web e passe a ser norma. Desenvolver com melhoria progressiva é um paradigma em que a aplicação deverá estar disponível para todos, sejam usuários de microcomputadores ou smartphones, com browsers atualizados ou obsoletos, com conexão à internet ou não, propiciando uma experiência de acesso contínuo sem nenhum tipo de restrição tecnológica.",
+		"prices": {
+			"ebook": 39,
+			"paper": 89
+		},
+		"numberOfPages": 443
+	},
+	{
+		"id": 2,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/angular_firebase.png",
+		"name": "Angular 11 e Firebase",
+		"author": "Kheronn Khennedy Machado",
+		"shortDescription": "Construindo uma aplicação integrada com a plataforma do Google",
+		"fullDescription": "No desenvolvimento de aplicações web e mobile, há disponível uma quantidade expressiva de linguagens, frameworks e ferramentas. Nessa imensidão, é comum se questionar ou até ter inseguranças sobre qual o melhor caminho para a construção neste segmento. O Angular é uma plataforma que facilita a construção de aplicativos, combinando templates, injeção de dependências, tudo integrado às melhores práticas de desenvolvimento. Neste livro, Kheronn Machado apresenta as principais características do Angular 11, através da implementação prática de uma aplicação. Você vai explorar tópicos como componentes, serviços, roteamentos e validação de formulários, dentro dos requisitos do projeto. Por fim, o autor mostra como integrar a aplicação ao Firebase, do Google, utilizando diversos recursos como banco de dados, autenticação, armazenamento de arquivos, execução de funções no lado do servidor e hospedagem do sistema.",
+		"prices": {
+			"ebook": 39,
+			"paper": 59
+		},
+		"numberOfPages": 163
+	}
+]
