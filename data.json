@@ -2,27 +2,121 @@
 	{
 		"id": 1,
 		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/pwa.png",
-		"name": "Progressive Web Apps",
+		"title": "Progressive Web Apps",
 		"author": "Guilherme Pontes",
 		"shortDescription": "Construa aplicações progressivas com React",
 		"fullDescription": "PWA é um acrônimo para Progressive Web Apps, ou Aplicações Web Progressivas. Com o passar dos dias, mais e mais sistemas mobile e navegadores suportam os requisitos PWA, com uma expectativa real de que a Progressive Enhancement, ou melhoria progressiva, deixe de apenas pertencer às boas práticas de desenvolvimento web e passe a ser norma. Desenvolver com melhoria progressiva é um paradigma em que a aplicação deverá estar disponível para todos, sejam usuários de microcomputadores ou smartphones, com browsers atualizados ou obsoletos, com conexão à internet ou não, propiciando uma experiência de acesso contínuo sem nenhum tipo de restrição tecnológica.",
 		"prices": {
 			"ebook": 39,
 			"paper": 89
-		},
-		"numberOfPages": 443
+		}
 	},
 	{
 		"id": 2,
 		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/angular_firebase.png",
-		"name": "Angular 11 e Firebase",
+		"title": "Angular 11 e Firebase",
 		"author": "Kheronn Khennedy Machado",
 		"shortDescription": "Construindo uma aplicação integrada com a plataforma do Google",
-		"fullDescription": "No desenvolvimento de aplicações web e mobile, há disponível uma quantidade expressiva de linguagens, frameworks e ferramentas. Nessa imensidão, é comum se questionar ou até ter inseguranças sobre qual o melhor caminho para a construção neste segmento. O Angular é uma plataforma que facilita a construção de aplicativos, combinando templates, injeção de dependências, tudo integrado às melhores práticas de desenvolvimento. Neste livro, Kheronn Machado apresenta as principais características do Angular 11, através da implementação prática de uma aplicação. Você vai explorar tópicos como componentes, serviços, roteamentos e validação de formulários, dentro dos requisitos do projeto. Por fim, o autor mostra como integrar a aplicação ao Firebase, do Google, utilizando diversos recursos como banco de dados, autenticação, armazenamento de arquivos, execução de funções no lado do servidor e hospedagem do sistema.",
+		"fullDescription": "No desenvolvimento de aplicações web e mobile, há disponível uma quantidade expressiva de linguagens, frameworks e ferramentas. Nessa imensidão, é comum se questionar ou até ter inseguranças sobre qual o melhor caminho para a construção neste segmento. O Angular é uma plataforma que facilita a construção de aplicativos, combinando templates, injeção de dependências, tudo integrado às melhores práticas de desenvolvimento.",
 		"prices": {
 			"ebook": 39,
 			"paper": 59
-		},
-		"numberOfPages": 163
+		}
+	},
+	{
+		"id": 3,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/acessibilidade_web.png",
+		"title": "Acessibilidade na Web",
+		"author": "Reinaldo Ferraz",
+		"shortDescription": "Boas práticas para construir sites e aplicações acessíveis",
+		"fullDescription": "Acessibilidade na Web consiste na eliminação de barreiras de acesso em páginas e aplicações digitais para que pessoas com deficiência tenham autonomia na rede. Na verdade, acessibilidade na web beneficia todas as pessoas. Em algum momento da vida todos podem precisar de acessibilidade, seja devido a uma limitação temporária ou permanente. Quando não levamos em consideração o acesso de pessoas com deficiência, estamos tirando o direito de uma pessoa de navegar, interagir ou consumir produtos e serviços na rede. Empatia é o fator principal para que as aplicações que desenvolvemos sejam inclusivas.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 4,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/arq_soft_distribuido.png",
+		"title": "Arquitetura de Software Distribuído",
+		"author": "Flávio Lisboa",
+		"shortDescription": "Boas práticas para um mundo de microsserviços",
+		"fullDescription": "Com constantes evoluções, adições de novas funcionalidades e integrações com outros sistemas, os softwares têm se tornado cada vez mais complexos, mais difíceis de serem entendidos. Dessa forma, fazer com que os custos de manutenção desses softwares não ultrapassem o valor que eles entregam às companhias é um desafio para a arquiteta ou arquiteto de software.",
+		"prices": {
+			"ebook": 39,
+			"paper": 59
+		}
+	},
+	{
+		"id": 5,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/guia_front.png",
+		"title": "Guia Front-end",
+		"author": "Diego Eis",
+		"shortDescription": "O caminho das pedras para ser um dev Front-End",
+		"fullDescription": "Dúvidas, tempo, tecnologias, mercado, mais dúvidas. Será que existe um verdadeiro caminho das pedras que devemos percorrer para nos tornarmos bons e verdadeiros desenvolvedores front-end? O que estudar? Qual blog ler? Que fóruns acompanhar? Como participar da comunidade? Será que estou no caminho certo? Se você é desenvolvedor front-end, quer entrar na área ou busca se tornar um grande profissional, essas dúvidas já devem ter passado por sua cabeça.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 6,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/js_assertivo.png",
+		"title": "JavaScript Assertivo",
+		"author": "Gabriel Ramos",
+		"shortDescription": "Testes e qualidade de código em todas as camadas da aplicação",
+		"fullDescription": "Manter a devida cultura de testes durante o desenvolvimento traz diversos benefícios para o seu código, seu produto, seu time e até mesmo para a empresa. O tempo investido ao escrever testes é recompensado com o aumento da confiança no funcionamento do seu código, redução de bugs e facilidade na manutenção, além da garantia de qualidade e assertividade. O cenário de testes tem se expandido e crescido nos últimos anos, principalmente quando falamos de JavaScript e seu ecossistema vivo, com mudanças e novidades constantes, seja trabalhando com front-end, back-end ou em ambas as vertentes.",
+		"prices": {
+			"ebook": 39,
+			"paper": 79
+		}
+	},
+	{
+		"id": 7,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/kafka_springboot.png",
+		"author": "Eduardo Felipe Zambom Santana",
+		"title": "Apache Kafka e Spring Boot",
+		"shortDescription": "Comunicação assíncrona entre microsserviços",
+		"fullDescription": "Pensar em comunicação assíncrona entre microsserviços é um caminho interessante quando a aplicação demanda serviços que podem demorar para responder. Para evitar problemas de timeouts e retentativas, utilizam-se filas ou tópicos, aos quais um processo adiciona uma mensagem informando o processamento a ser feito e outro a recebe quando estiver disponível e executa. O Kafka é atualmente um dos principais sistemas para a implementação de processamento assíncrono. Além de disponibilizar os tópicos para a produção e consumo de mensagens, suas diversas funcionalidades facilitam a implementação de nossas aplicações, com a distribuição e o balanceamento de carga entre os consumidores e o processamento de fluxos de dados.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 8,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/lp_portugol.png",
+		"title": "Lógica de programação com Portugol",
+		"author": "Joice Barbosa Mendes, Rafael da Silva Muniz",
+		"shortDescription": "Mais de 80 exemplos, 55 exercícios com gabarito e vídeos complementares",
+		"fullDescription": "O primeiro passo no mundo do desenvolvimento de aplicativos, softwares e sistemas informatizados envolve lógica de programação. É conhecer conceitos fundamentais sobre o funcionamento de comandos para passarmos para o computador o que ele deve fazer e qual a sequência correta do que deve ser feito. Isso se torna mais palpável com uma linguagem mais próxima à que já dominamos: o português. Com foco no aprendizado, Portugol é uma pseudo-linguagem de programação que oferece uma abordagem acessível para você aprender a montar seus primeiros algoritmos com lógica de programação.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 9,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/react_native.png",
+		"title": "React Native",
+		"author": "Diego Martins de Pinho, Bruna Escudelario",
+		"shortDescription": "Desenvolvimento de aplicativos mobile com React",
+		"fullDescription": "O React Native é um framework desenvolvido pelo Facebook e baseado na biblioteca React. Ele consiste em uma série de ferramentas que viabilizam a criação de aplicações mobile nativas — para as plataformas iOS e Android — utilizando internamente as tecnologias básicas do front-end: HTML, CSS e JavaScript. Ao contrário de outros frameworks semelhantes, o React Native converte todo o código desenvolvido para a linguagem nativa do sistema operacional do seu aparelho, ou seja, podemos criar somente um código e ele rodará em qualquer sistema operacional.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 10,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/tuning_sql.png",
+		"title": "Tuning de SQL",
+		"author": "Eduardo Gonçalves",
+		"shortDescription": "Melhore a performance de suas aplicações Oracle",
+		"fullDescription": "As instruções SQL são o principal ponto de análise quando falamos sobre performance de programas, pois a maneira como as informações são acessadas e processadas em um banco de dados pode ser a maior causa de demora na execução. Entender quando e como buscar por performance e, dessa maneira, atingir um desempenho adequado é o objetivo do Tuning de SQL.",
+		"prices": {
+			"ebook": 39,
+			"paper": 99
+		}
 	}
 ]
