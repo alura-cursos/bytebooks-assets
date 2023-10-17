@@ -118,5 +118,245 @@
 			"ebook": 39,
 			"paper": 99
 		}
+	},
+	{
+		"id": 11,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/cangaceiro_js.webp",
+		"title": "Cangaceiro JavaScript",
+		"author": "Flávio Almeida",
+		"shortDescription": "Uma aventura no sertão da programação",
+		"fullDescription": "Talvez nenhuma outra linguagem tenha conseguido invadir o coletivo imaginário dos desenvolvedores como JavaScript fez. Em sua história fabular em busca de identidade, foi a única que conseguiu se enraizar nos navegadores, tornando-se uma linguagem em que todo desenvolvedor precisa ter algum nível de conhecimento.",
+		"prices": {
+			"ebook": 39,
+			"paper": 99
+		}
+	},
+	{
+		"id": 12,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/es6.webp",
+		"title": "ECMAScript 6",
+		"author": "Diego Martins de Pinho",
+		"shortDescription": "Entre de cabeça no futuro do JavaScript",
+		"fullDescription": "Nos últimos anos, a linguagem JavaScript cresceu bastante na comunidade de desenvolvedores, tornando-se mais robusta, poderosa e sendo usada em uma infinidade de aplicações de alto nível, tanto no front-end quanto no back-end das aplicações. Ela é a tecnologia por trás de ferramentas, frameworks e bibliotecas consagradas no mercado, tais como: Angular, Ember, React, Backbone, jQuery, Grunt. A lista é enorme. Atualmente, é essencial que um profissional de TI tenha domínio desta tecnologia, tanto para aplicações web, aplicativos mobile e/ou desktop. É exatamente para isto que este livro foi escrito. Para que você seja capaz de entender todas as mudanças que vieram com o ECMAScript 6, aprimorar suas habilidades como desenvolvedor e se destacar no mercado de trabalho que hoje é tão concorrido.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 13,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/estrutura_dados.webp",
+		"title": "Estruturas de Dados",
+		"author": "Thiago Leite e Carvalho",
+		"shortDescription": "Domine as práticas essenciais em C, Java, C#, Python e JavaScript",
+		"fullDescription": "As estruturas de dados são a base para a construção de algoritmos eficientes que possibilitam a construção sistemas computacionais de alta performance. Elas permitem o armazenamento e manipulação de dados e são essenciais para a solução de problemas complexos em diversas áreas em evidência: inteligência artificial, processamento de imagens, ciência de dados, Machine Learning e Engenharia de Software.",
+		"prices": {
+			"ebook": 49,
+			"paper": 89
+		}
+	},
+	{
+		"id": 14,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/gestao_produtos.png",
+		"title": "Coleção Joca Torres",
+		"author": "Joaquim Torres",
+		"shortDescription": "Coleção com 3 livros sobre gestão e liderança",
+		"fullDescription": "Gestão de produtos: Como aumentar as chances de sucesso do seu software, Guia da Startup: Como startups e empresas estabelecidas podem criar produtos de software rentáveis, Liderança de produtos digitais: A ciência e a arte da gestão de times de produto",
+		"prices": {
+			"ebook": 99,
+			"paper": 149
+		}
+	},
+	{
+		"id": 15,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/guia_ts.webp",
+		"title": "Guia prático de TypeScript",
+		"author": "Thiago da Silva Adriano",
+		"shortDescription": "Melhore suas aplicações JavaScript",
+		"fullDescription": "Desenvolvido e mantido pela Microsoft, o TypeScript é um pré-processador open source de códigos JavaScript que auxilia na escrita de códigos, desde os mais simples até os mais complexos, utilizando tipagem de dados e os princípios da Orientação a Objetos para o desenvolvimento de aplicações front-end, back-end e mobile.",
+		"prices": {
+			"ebook": 39,
+			"paper": 59
+		}
+	},
+	{
+		"id": 16,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/html_css.webp",
+		"title": "HTML5 e CSS3",
+		"author": "Lucas Mazza",
+		"shortDescription": "Domine a web do futuro",
+		"fullDescription": "Crie páginas elegantes de forma simples! HTML e CSS, quando bem utilizados, podem ser o sucesso de um projeto e, com os novos recursos, muito do que antes era trabalhoso agora não é mais.",
+		"prices": {
+			"ebook": 39,
+			"paper": 59
+		}
+	},
+	{
+		"id": 17,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/node.png",
+		"title": "Construindo APIs REST com Node.js",
+		"author": "Caio Ribeiro Pereira",
+		"shortDescription": "Boas práticas sobre como construir uma API utilizando código JavaScript moderno",
+		"fullDescription": "Hoje em dia, é muito comum criar aplicações client-side para web e mobile que consomem dados de uma API (Application Programming Interface), que são sistemas back-end focados apenas no processamento e envio de dados, de forma centralizada. Isso permite que sejam desenvolvidas múltiplas aplicações clientes com interfaces específicas para usuários mobile, desktop ou web. Desde 2010, o Node.js provou ser uma excelente plataforma escalável na solução de diversos problemas, principalmente para construção de APIs RESTful.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 18,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/turbine_css.webp",
+		"title": "Turbine seu CSS",
+		"author": "Rosicléia Frasson",
+		"shortDescription": "Folhas de estilo inteligentes com Sass",
+		"fullDescription": "Pré-processadores funcionam como uma extensão do CSS para auxiliar na criação de folhas de estilo com a adição de funcionalidades. Eles ajudam a diminuir a repetição de código e permitem implementar mudanças de forma mais rápida.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 19,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/web_mobile.webp",
+		"title": "A Web Mobile",
+		"author": "Sérgio Lopes",
+		"shortDescription": "Design Responsivo e além para uma Web adaptada ao mundo mobile ",
+		"fullDescription": "Com o crescimento absurdo do uso de smartphones e tablets, a Web quebrou novas fronteiras. Sites enjaulados no Desktop são coisa do passado. A Web é multidispositivo e você precisa suportar mobile, TV, relógio... e até Desktop!",
+		"prices": {
+			"ebook": 29,
+			"paper": 79
+		}
+	},
+	{
+		"id": 20,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/agilidade_lean.webp",
+		"title": "Agilidade lean",
+		"author": "Vitor Pinho",
+		"shortDescription": "Como um time ágil pode fazer mais com menos esforço",
+		"fullDescription": "As metodologias ágeis têm sido amplamente adotadas pelas organizações a fim de melhorar a cultura e os processos de produção. Embora os princípios do Manifesto Ágil sejam recitados de cor e seguidos, muitas vezes, sem questionamentos, ainda há muito o que evoluir e otimizar no dia a dia de trabalho. Curiosamente, o Lean, que está nas raízes da Agilidade e é a base de métodos como o Scrum e o Kanban, ainda permanece desconhecido pelas equipes ágeis, enquanto ele poderia – e deveria – ser pensado em conjunto, sendo uma oportunidade para intensificar a prática da melhoria contínua e acelerar o processo de mudança. O caminho proposto pelo Lean é ajudar os times a olharem para si mesmos e aprenderem a identificar e resolver os problemas (frequentemente ocultos) que os impedem de ter resultados melhores.",
+		"prices": {
+			"ebook": 45,
+			"paper": 69
+		}
+	},
+	{
+		"id": 21,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/metricas_ageis.webp",
+		"title": "Métricas Ágeis",
+		"author": "Raphael Donaire Albino",
+		"shortDescription": "Obtenha melhores resultados em sua equipe",
+		"fullDescription": "Em um meio onde queremos entregar melhores produtos de software para os clientes e usuários, torna-se muito relevante incluir em nosso repertório formas de monitorar a eficiência do processo de construção de software. Mas, afinal, por que você deve aprender sobre métricas e visualizações do processo de desenvolvimento software? Em um ambiente ágil, métricas podem ajudar a analisar a saúde do seu processo de construção, fornecendo dados históricos reais a partir dos quais é possível projetar cenários para as entregas, tendo um olhar mais concreto sobre o desenvolvimento e o atendimento de demandas.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 22,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/scrum.webp",
+		"title": "Scrum",
+		"author": "Rafael Sabbagh",
+		"shortDescription": "Gestão ágil para produtos de sucesso",
+		"fullDescription": "Scrum chega para romper com a ideia dominante de que os esforços de desenvolvimento de produtos devem ser estruturados, gerenciados e avaliados como prega o taylorismo para o trabalho fabril, que é repetitivo e previsível. O framework promove o aprendizado contínuo e a adaptação frequente, essenciais para que as organizações prosperem no ambiente de constantes mudanças dos dias de hoje.",
+		"prices": {
+			"ebook": 39,
+			"paper": 99
+		}
+	},
+	{
+		"id": 23,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/extreme_programming.webp",
+		"title": "eXtreme Programming",
+		"author": "Daniel Wildt, Dionatan Moura, Guilherme Lacerda, Rafael Helm",
+		"shortDescription": "Práticas para o dia a dia no desenvolvimento ágil de software",
+		"fullDescription": "Por que projetos falham? Comunicação insatisfatória com o cliente, um empurra a culpa para o outro, tempo desperdiçado, falta de testes e retrabalho... Estas são cenas corriqueiras em um time de desenvolvimento de software. E qual a solução?",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 24,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/ux_design.webp",
+		"title": "User Experience Design",
+		"author": "Rogério Pereira",
+		"shortDescription": "Como criar produtos digitais com foco nas pessoas",
+		"fullDescription": "A experiência do usuário (UX) engloba todos os aspectos da interação que as pessoas costumam ter com uma marca, seus serviços e principalmente com seus canais digitais, sejam sites, aplicativos ou softwares. Mas esta área, além de crescente, é muito mais abrangente e vai além de fazer produtos digitais: é a preocupação com a construção de soluções relevantes que vão melhorar a relação do usuário com seu produto ou serviço.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 25,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/flutter_framework.webp",
+		"title": "Flutter Framework",
+		"author": "Leonardo H Marinho",
+		"shortDescription": "Desenvolva aplicações móveis no Dart Side!",
+		"fullDescription": "No desenvolvimento de aplicativos para dispositivos móveis, precisamos nos preocupar muito mais com a usabilidade, interface gráfica, desempenho e praticidade. A escolha das ferramentas corretas impacta diretamente na qualidade do que estamos construindo quando produto final. Um mundo ideal seria poder obter o mesmo processamento e renderização de uma aplicação nativa em uma aplicação híbrida que possibilitasse escrever apenas um código e executar para todas as plataformas. Flutter veio com uma proposta totalmente diferente de seus antecessores e promete ser um framework que realmente divida águas no meio tecnológico.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 26,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/ionic6.webp",
+		"title": "Ionic 6",
+		"author": "Everton Coimbra de Araújo",
+		"shortDescription": "Desenvolvimento multiplataforma para dispositivos móveis",
+		"fullDescription": "Os dispositivos móveis já fazem parte do dia a dia da maioria da população. São duas as maiores plataformas móveis atualmente disponíveis (iOS e Android), mas várias são as ferramentas para desenvolvimento de aplicações para elas, quer seja de forma nativa ou híbrida. O Ionic é um framework para aplicações cross-platform, que podem ser executadas em dispositivos móveis e web, desenvolvidas em HTML e TypeScript.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 27,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/android_kotlin.webp",
+		"title": "Android nativo com Kotlin e MVVM",
+		"author": "Paulo Salvatore",
+		"shortDescription": "Simplificando técnicas avançadas",
+		"fullDescription": "A ascensão do Android como a plataforma móvel mais popular do mundo aumentou a demanda por desenvolvedores e desenvolvedoras proficientes nessa área. Saber construir aplicativos nativos para Android, empregando conceitos avançados da linguagem Kotlin, com a escolha arquitetural adequada e um conjunto de bibliotecas poderosas, tornou-se uma habilidade crucial para quem quer ter um diferencial competitivo. Dominando essas ferramentas com profundidade, você terá todo o alicerce para a criação de soluções eficientes, robustas e escaláveis para os desafios do mundo real.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 28,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/kotlin_com_android.webp",
+		"title": "Kotlin com Android",
+		"author": "Kassiano Resende",
+		"shortDescription": "Crie aplicativos de maneira fácil e divertida",
+		"fullDescription": "A linguagem Kotlin vem ganhando cada vez mais destaque no cenário do desenvolvimento de aplicativos. Projetada para ter uma interoperabilidade total com código Java, Kotlin tem sido a primeira escolha na criação de aplicativos Android, sendo multiparadigma e multiplataforma. Trata-se de uma linguagem moderna, concisa e poderosa, oferecendo segurança, clareza e suporte a ferramentas de alta produtividade.",
+		"prices": {
+			"ebook": 39,
+			"paper": 79
+		}
+	},
+	{
+		"id": 29,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/logica_programacao.webp",
+		"title": "Lógica de Programação",
+		"author": "Paulo Silveira, Adriano Almeida",
+		"shortDescription": "Crie seus primeiros programas usando Javascript e HTML",
+		"fullDescription": "Aprenda a programar agora! Este livro apresenta uma abordagem totalmente prática. Uma didática pensada no iniciante, com a qual os conceitos são apresentados com motivações práticas, através do surgimento da necessidade para depois mostrar a solução.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
+	},
+	{
+		"id": 30,
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/codigo_limpo.webp",
+		"title": "Deixe seu código limpo e brilhante",
+		"author": "José Yoshiriro",
+		"shortDescription": "Desmistificando Clean Code com Java e Python",
+		"fullDescription": "Programar frequentemente envolverá consertar, melhorar ou ampliar o código. As práticas de Código Limpo (Clean Code) difundidas por Robert Martin visam ajudar programadores a criar códigos mais coerentes, organizados, fáceis de ler e, consequentemente, de dar manutenção. Códigos não limpos consomem muito mais tempo e demandam mais custos para se manter, e seria ideal se seus conceitos já fossem utilizados desde o princípio por todos os desenvolvedores e desenvolvedoras, independente do nível técnico. Porém este assunto costuma ser abordado apenas em esferas ocupadas por profissionais experientes, tendo alta curva de aprendizagem para quem está começando.",
+		"prices": {
+			"ebook": 39,
+			"paper": 69
+		}
 	}
 ]
