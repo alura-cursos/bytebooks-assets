@@ -1,7 +1,7 @@
 [
 	{
 		"id": 1,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/pwa.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/pwa.webp",
 		"title": "Progressive Web Apps",
 		"author": "Guilherme Pontes",
 		"shortDescription": "Construa aplicações progressivas com React",
@@ -13,7 +13,7 @@
 	},
 	{
 		"id": 2,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/angular_firebase.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/angular_firebase.webp",
 		"title": "Angular 11 e Firebase",
 		"author": "Kheronn Khennedy Machado",
 		"shortDescription": "Construindo uma aplicação integrada com a plataforma do Google",
@@ -25,7 +25,7 @@
 	},
 	{
 		"id": 3,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/acessibilidade_web.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/acessibilidade_web.webp",
 		"title": "Acessibilidade na Web",
 		"author": "Reinaldo Ferraz",
 		"shortDescription": "Boas práticas para construir sites e aplicações acessíveis",
@@ -37,7 +37,7 @@
 	},
 	{
 		"id": 4,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/arq_soft_distribuido.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/arq_soft_distribuido.webp",
 		"title": "Arquitetura de Software Distribuído",
 		"author": "Flávio Lisboa",
 		"shortDescription": "Boas práticas para um mundo de microsserviços",
@@ -49,7 +49,7 @@
 	},
 	{
 		"id": 5,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/guia_front.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/guia_front.webp",
 		"title": "Guia Front-end",
 		"author": "Diego Eis",
 		"shortDescription": "O caminho das pedras para ser um dev Front-End",
@@ -61,7 +61,7 @@
 	},
 	{
 		"id": 6,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/js_assertivo.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/js_assertivo.webp",
 		"title": "JavaScript Assertivo",
 		"author": "Gabriel Ramos",
 		"shortDescription": "Testes e qualidade de código em todas as camadas da aplicação",
@@ -73,7 +73,7 @@
 	},
 	{
 		"id": 7,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/kafka_springboot.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/kafka_springboot.webp",
 		"author": "Eduardo Felipe Zambom Santana",
 		"title": "Apache Kafka e Spring Boot",
 		"shortDescription": "Comunicação assíncrona entre microsserviços",
@@ -85,7 +85,7 @@
 	},
 	{
 		"id": 8,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/lp_portugol.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/lp_portugol.webp",
 		"title": "Lógica de programação com Portugol",
 		"author": "Joice Barbosa Mendes, Rafael da Silva Muniz",
 		"shortDescription": "Mais de 80 exemplos, 55 exercícios com gabarito e vídeos complementares",
@@ -97,7 +97,7 @@
 	},
 	{
 		"id": 9,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/react_native.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/react_native.webp",
 		"title": "React Native",
 		"author": "Diego Martins de Pinho, Bruna Escudelario",
 		"shortDescription": "Desenvolvimento de aplicativos mobile com React",
@@ -109,7 +109,7 @@
 	},
 	{
 		"id": 10,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/tuning_sql.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/tuning_sql.webp",
 		"title": "Tuning de SQL",
 		"author": "Eduardo Gonçalves",
 		"shortDescription": "Melhore a performance de suas aplicações Oracle",
@@ -157,7 +157,7 @@
 	},
 	{
 		"id": 14,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/gestao_produtos.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/gestao_produtos.webp",
 		"title": "Coleção Joca Torres",
 		"author": "Joaquim Torres",
 		"shortDescription": "Coleção com 3 livros sobre gestão e liderança",
@@ -193,7 +193,7 @@
 	},
 	{
 		"id": 17,
-		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/node.png",
+		"image": "https://raw.githubusercontent.com/cicatriz-dev/bytebooks-assets/main/assets/node.webp",
 		"title": "Construindo APIs REST com Node.js",
 		"author": "Caio Ribeiro Pereira",
 		"shortDescription": "Boas práticas sobre como construir uma API utilizando código JavaScript moderno",
